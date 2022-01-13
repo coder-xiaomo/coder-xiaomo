@@ -2,7 +2,8 @@
 
 <!-- Readme Typing SVG: http://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23000000&height=60&lines=console.log(%22Hello+World!%22);console.log(%22你好，世界！%22);console.log(%22欢迎你，我是程序员小墨%22);console.log(%22Hi, I'm Xiaomo.%22)">
+   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23000000&height=60&lines=console.log(%22Hello+World!%22);console.log(%22你好，世界！%22)">
+   <!-- ;console.log(%22欢迎你，我是程序员小墨%22);console.log(%22Hi, I'm Xiaomo.%22) -->
 </p>
 
 <div align="center">
