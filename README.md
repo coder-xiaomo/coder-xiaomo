@@ -1,10 +1,10 @@
+### Hi there 👋
+
 <!-- Readme Typing SVG: http://readme-typing-svg.herokuapp.com/demo/ -->
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23000000&height=60&lines=console.log(%22Hello+World!%22);console.log(%22你好，世界！%22)">
    <!-- ;console.log(%22欢迎你，我是程序员小墨%22);console.log(%22Hi, I'm Xiaomo.%22) -->
 </p>
-
-### Hi there 👋
 
 我，一个喜欢一切有趣的事儿的普通人，also a Java programmer.
 
@@ -18,12 +18,12 @@
 - 我用过的东西可不少，Vue.js、Spring Boot、MySQL、Git，随随便便给你写个小项目不在话下，但你问我原理，我肯定是一个也答不上来的（逃
 - 咱也不光是敲代码，Photoshop、醒图、Premiere、剪映、Audition、Illustrator 咱也会呀（吹牛谁不会！达芬奇 Ae 是真学不会！
 
-
+<br />
 
 - 是别人眼中乐于助人的大佬，是自我认知中的正常水平，是 HR 嗤之以鼻的双非本科
 - 对做的事有极致的追求，要么不开始，要么不放弃（当然，给资本家打工除外
 
-
+<br />
 
 - 尊贵的百度网盘 SVIP，Office 三件套资深老用户（跑题了，不过我真不愿用 WPS
 
@@ -31,7 +31,7 @@
 
 - 梦想还是要有的。想学 Flutter，想搞人工智障，想写出有很多 Star 的开源项目，想自己开个公司做大做强，也想摆烂，想转行，想搞心理学，还想做免费不要钱的白日梦
 
-
+<br />
 
 - 要问我最后悔的事是什么？那就是把电脑更到 Windows 11，最爽的事是什么？那当然是用 Ubuntu 敲代码了（不用 Win 11 真的很爽！
 
@@ -40,7 +40,7 @@
 - 00后整顿职场？别误会！我可没针对职场，谁让我不爽我整谁（一不小心说了大实话
 - 别杠，杠就是我对 <!--啊对对对，我说的都对！-->
 
-
+<br />
 
 个人网站 & 博客：[onl4.work](https://www.only4.work/) / [cxyxiaomo.com](https://cxyxiaomo.com/)
 
