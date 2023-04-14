@@ -18,6 +18,9 @@
 - 我用过的东西可不少，Vue.js、Spring Boot、MySQL、Git，随随便便给你写个小项目不在话下，但你问我原理，我肯定是一个也答不上来的（逃
 - 咱也不光是敲代码，Photoshop、醒图、Premiere、剪映、Audition、Illustrator 咱也会呀（吹牛谁不会！达芬奇 Ae 是真学不会！
 
+<details>
+<summary>展开更多</summary>
+
 <br />
 
 - 是别人眼中乐于助人的大佬，是自我认知中的正常水平，是 HR 嗤之以鼻的双非本科
@@ -41,6 +44,8 @@
 - 别杠，杠就是我对 <!--啊对对对，我说的都对！-->
 
 <br />
+
+</details>
 
 个人网站 & 博客：[onl4.work](https://www.only4.work/) / [cxyxiaomo.com](https://cxyxiaomo.com/)
 
