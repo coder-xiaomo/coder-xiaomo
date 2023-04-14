@@ -10,6 +10,12 @@
 
 关键词：男，22，坐标武汉，INFJ，白羊座，不吃辣，Hubei University，Software Engineering
 
+🌱 个人网站 & 博客：[onl4.work](https://www.only4.work/) / [cxyxiaomo.com](https://cxyxiaomo.com/)
+
+
+
+### 🌱 个人技术
+
 - Java、node、Python、SQL、PHP、C# 都会一点儿，但不多，但也不少（主打一个刚刚好
 
 - 记事本、VS Code、IDEA、PyCharm、Visual Studio 都用过，但一个也没用熟，但也都够用（反正网上能查嘛不是
@@ -43,22 +49,19 @@
 - 00后整顿职场？别误会！我可没针对职场，谁让我不爽我整谁（一不小心说了大实话
 - 别杠，杠就是我对 <!--啊对对对，我说的都对！-->
 
-<br />
-
 </details>
 
-个人网站 & 博客：[onl4.work](https://www.only4.work/) / [cxyxiaomo.com](https://cxyxiaomo.com/)
+
+
+### ⚡ 我与开源
+
+平时没事喜欢整点没啥用的小项目，[去看看我的开源项目](https://www.only4.work/about/opensource.html)。
+
+另外，自己的代码放别人那咱总觉得不踏实，所以代码主要放在[自建码仓](https://git.only4.work/)。
 
 
 
-### 我与开源
-
-平时没事喜欢整点[没啥用的小项目](https://www.only4.work/about/opensource.html)。另外，自己的代码放别人那咱总觉得不踏实，所以代码主要放在[自建码仓](https://git.only4.work/)。
-
-
-
-
-### 自媒体
+### 😄 自媒体
 
 你可以在这里找到我，但不建议关注我，因为我只随缘更新（也就是想起来才更）
 
@@ -69,19 +72,19 @@
 
 
 
-### 工作经历
+### 🔭 工作经历
 
 2022.06 - 2022.10  腾讯云智 Java后台开发实习
 
 
 
-### 一些不务正业的小玩意儿
+### 💬 一些不务正业的小玩意儿
 
 懒得整理了，有空再来填坑好了。
 
 
 
-### 联系方式
+### 📫 联系方式
 
 > 仓库代码咨询请提 issue，其他事项请备注来意
 
@@ -90,7 +93,6 @@
 工作微信：coding-zhang
 
 更多联系方式：[点击查看](https://www.only4.work/about/contact.html)
-
 
 
 
