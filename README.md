@@ -8,7 +8,7 @@
 
 我，一个喜欢一切有趣的事儿的普通人，also a Java programmer.
 
-关键词：男，22，坐标武汉，INFJ，白羊座，不吃辣，Hubei University，Software Engineering
+关键词：男，22，坐标武汉，INFJ-A，白羊座，不吃辣，Hubei University，Software Engineering
 
 🌱 个人网站 & 博客：[only4.work](https://www.only4.work/) / [cxyxiaomo.com](https://cxyxiaomo.com/)
 
@@ -61,7 +61,7 @@
 
 平时没事喜欢整点没啥用的小项目，[去看看我的开源项目](https://www.only4.work/about/opensource.html)。
 
-另外，自己的代码放别人那咱总觉得不踏实，所以代码主要放在[自建码仓](https://git.only4.work/)。
+另外，自己的代码放别人那咱总觉得不踏实，所以代码主要放在[自建码仓](https://git.only4.work/)(git.only4.work)，GitHub 仅做备份。
 
 
 
@@ -69,9 +69,18 @@
 
 你可以在这里找到我，但不建议关注我，因为我只随缘更新（也就是想起来才更）
 
-- B站：[程序员小墨](https://space.bilibili.com/457109942)
+**一个App的诞生**
 
-- 微信公众号：程序员小墨
+- 主更：// [小红书](https://www.xiaohongshu.com/user/profile/6520554a000000002402f8c1) // [抖音](https://www.douyin.com/user/MS4wLjABAAAAuv7QvTVxAK_tQXVc2fxHZLA_N_QLWi-t7MjSNKa2NUK0YrvW6zIYXkenLjGeF8to) //
+
+- 同步：// 视频号 // [哔哩哔哩](https://space.bilibili.com/3546568227556268) // [微博](https://weibo.com/u/7879705958)(一个软件的诞生) //
+
+> 可恶，微博ID不能包含 `App` 关键字
+
+**程序员小墨**
+
+- 主更：// [哔哩哔哩](https://space.bilibili.com/457109942) //
+- 同步：// 微信公众号 // 视频号(Coder小墨) //
 
 
 
