@@ -12,6 +12,8 @@
 
 🌱 个人网站 & 博客：[only4.work](https://www.only4.work/) / [cxyxiaomo.com](https://cxyxiaomo.com/)
 
+👨‍💻 『织个网』App 开发中，初步计划 2024 - 2025 前后上线，欢迎关注
+
 
 
 ### 🦸‍♂️ 个人技术
