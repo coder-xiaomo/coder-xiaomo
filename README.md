@@ -20,13 +20,13 @@
 
 ### 🦸‍♂️ 个人技术
 
-- Java、node、Python、SQL、PHP、C# 都会一点儿，但不多，但也不少（主打一个刚刚好
+- Java、Node.js、Python、SQL、PHP、C# 都会一点儿，但不多，但也不少（主打一个刚刚好
 
-- 记事本、VS Code、IDEA、PyCharm、Visual Studio 都用过，但一个也没用熟，但也都够用（反正网上能查嘛不是
+- 记事本、VS Code、IntelliJ IDEA、Visual Studio 都用过，但一个也没用熟，但也都够用（反正网上能查嘛不是
 
 - 精通不少 Linux 命令，具体是有多少...俩手加个脚能数过来吧，不能再多了（反正嘎嘎敲就完事了，sudo rm -rf /* 不在话下
 
-- 我用过的东西可不少，Vue.js、Spring Boot、MySQL、Git，随随便便给你写个小项目不在话下，但你问我原理，我肯定是一个也答不上来的（逃
+- 我用过的东西可不少，Vue.js、Spring Boot、react-native、uni-app、MySQL、Git，随随便便给你写个小项目不在话下，但你问我原理，我肯定是一个也答不上来的（逃
 
 - 咱也不光是敲代码，Photoshop、醒图、Premiere、剪映、Audition、Illustrator 咱也会呀（吹牛谁不会！达芬奇 Ae 是真学不会！
 
