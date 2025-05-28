@@ -6,9 +6,11 @@
 <!-- ;console.log(%22欢迎你，我是程序员小墨%22);console.log(%22Hi, I'm Xiaomo.%22) -->
 </p>
 
-我，一个喜欢一切有趣的事儿的普通人，also a Java programmer.
+我，一个喜欢一切有趣的事儿的普通人，also a full-stack engineer.
 
-关键词：男，24，坐标武汉，INFJ-A，白羊座，不吃辣，Hubei University，Software Engineering
+👨‍💻 男 · 🎂 24 · 🏠 坐标武汉 · 🧐 INFJ-A · ♈ 白羊座 · <!--🚫-->🙅‍♂️🌶️ 忌辣
+
+🎓 Hubei University · Bachelor's degree · Software Engineering
 
 🌱 个人网站 & 博客：[only4.work](https://www.only4.work/)
 
@@ -120,3 +122,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=coder-xiaomo&theme=blueberry&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 </div>
+
+<p align="center">
+  - <img src="https://github.com/coder-xiaomo.png" width="10"> -
+</p>
