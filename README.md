@@ -10,7 +10,7 @@
 
 关键词：男，24，坐标武汉，INFJ-A，白羊座，不吃辣，Hubei University，Software Engineering
 
-🌱 个人网站 & 博客：[only4.work](https://www.only4.work/) / [cxyxiaomo.com](https://cxyxiaomo.com/)
+🌱 个人网站 & 博客：[only4.work](https://www.only4.work/)
 
 <!--
 👨‍💻 『织个网』App 开发中，初步计划 2024 - 2025 前后上线，欢迎关注
