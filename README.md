@@ -8,7 +8,7 @@
 
 我，一个喜欢一切有趣的事儿的普通人，also a Java programmer.
 
-关键词：男，22，坐标武汉，INFJ-A，白羊座，不吃辣，Hubei University，Software Engineering
+关键词：男，24，坐标武汉，INFJ-A，白羊座，不吃辣，Hubei University，Software Engineering
 
 🌱 个人网站 & 博客：[only4.work](https://www.only4.work/) / [cxyxiaomo.com](https://cxyxiaomo.com/)
 
